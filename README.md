@@ -1,2 +1,3 @@
-# TrainsOfKiwilandThoughtWorks
+# TrainsOfKiwiland
+
 Modified Djisktra's algoritm to find out all possible and shortest paths

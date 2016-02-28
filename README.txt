@@ -1,13 +1,4 @@
 
--- BRIEF
-
-Hi,
-
-I'am Zeki Gulser and a team member candidate for ThoughtWorks and this is a README of what I've done.
-
-For the assignment, I picked Kiwiland Trains Problem to go with. In this assignment we are asked to find out all possible paths/routes 
-between two (distinct) cities of Kiwiland along with the shortest paths among all couples of cities.
-
 -- ASSUMPTIONS
 
 1. Throughout the code I used terms "city", "vertex" or "town" interchangeably. So for 'path' & 'route'.
